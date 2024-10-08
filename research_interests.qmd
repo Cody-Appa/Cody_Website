@@ -1,0 +1,30 @@
+---
+title: "Research Interests"
+image: profile.jpg
+about:
+  template: trestles
+---
+
+## Microscopy
+
+-   Proficient in live-cell microscopy, confocal microscopy, and light microscopy
+
+-   Skilled in utilizing imaging software such as Fiji, ImageJ, and Illustrator to process images
+
+## Infectious Culture
+
+-   8+ years of experience working with infectious culture in a biosafety 2+ lab setting
+
+-   Skilled in eukaryotic host cell culture
+
+## Molecular Biology
+
+-   Research has emphasized molecular biology, particularly genetic engineering of plasmid vectors
+
+-   utilize fluorescent promoter reporter plasmid constructs with various methods
+
+    ##### *Curriculum Vitae*
+
+<iframe src="CodyAppaCV.pdf" width="100%" height="600px">
+
+</iframe>

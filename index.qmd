@@ -1,0 +1,19 @@
+---
+title: "About Me"
+image: mepic.JPG
+
+about:
+  template: solana
+---
+
+Cody Appa is a PhD candidate in the Department of Biological Sciences at the University of Idaho.
+
+## Education
+
+University of Idaho, Moscow \| Idaho \| BS in Biology 2018
+
+University of Idaho, Moscow \| Idaho \| PhD in Micro/Molecular Biology and Biochemistry 2021-present
+
+## Hobbies
+
+I enjoy hiking and traveling, video games, and microscopy

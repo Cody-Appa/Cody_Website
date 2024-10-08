@@ -1,0 +1,12 @@
+{
+  "hash": "32dbe1c3e2ff5c00e872d00be547866d",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2024-10-08\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\njupyter: python3\n---\n\n\n\n\n\nThis is a post with executable code.\n\n::: {#6497ad81 .cell execution_count=1}\n``` {.python .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n2\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

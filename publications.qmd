@@ -1,0 +1,27 @@
+---
+title: "Publications"
+page-layout: full
+title-block-banner: true
+---
+
+-   **Appa CR**, Grieshaber NA, Yang H, Omsland A, McCormick S, Chiarelli TJ, Grieshaber SS. The chlamydial transcriptional regulator Euo is a key switch in cell form developmental progression but is not involved in the committed step to the formation of the infectious form. https://journals.asm.org/doi/10.1128/msphere.00437-24 Summer 2024
+
+[![](pub%20photos/Euo_paper.png){fig-align="center" width="394"}](https://journals.asm.org/doi/10.1128/msphere.00437-24)
+
+-   Nicole A. Grieshaber, **Cody Appa**, Megan Ward, Alorah Grossman, Sean McCormik, Brendan S. Grieshaber, Travis Chiarelli, Hong Yang, Anders Omsland, Scott S. Grieshaber. The T3SS structural and effector genes of Chlamydia trachomatis are expressed in distinct phenotypic cell forms\
+    https://www.biorxiv.org/content/10.1101/2024.04.25.591156v1.full Summer 2024
+
+[![](pub%20photos/T3SS.png){fig-align="center" width="397"}](https://www.biorxiv.org/content/10.1101/2024.04.25.591156v1.full)
+
+-   Chiarelli TJ, Grieshaber NA, **Appa C**, Grieshaber SS. 2023.Computational Modeling of the Chlamydial Developmental Cycle Reveals a Potential Role for Asymmetric Division. https://doi.org/10.1128/msystems.00053-23 Spring 2023
+
+[![](pub%20photos/asymmetric.png){fig-align="center" width="401"}](https://journals.asm.org/doi/10.1128/msystems.00053-23)
+
+-   Nicole A. Grishaber, Justin Runac, Sierra Turner, Marissa Dean, **Cody Appa**, Anders Omsland, Scott Grieshaber. The sRNA Regulated Protein DdbA Is Involved in Development and Maintenance of the Chlamydia trachomatis EB Cell Form.\
+    https://doi.org/10.3389/fcimb.2021.692224 Summer 2021
+
+    [![](pub%20photos/DDBA.png){fig-align="center" width="312"}](https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.692224/full)
+
+-   Nicole A. Grieshaber, Travis J. Chiarelli, **Cody R. Appa**, Grace Neiswanger, Kristina Peretti, Scott S. Grieshaber. Translational Gene Expression Control in Chlamydia trachomatis https://doi.org/10.1371/journal.pone.0257259 Summer 2021
+
+[![](pub%20photos/expression.png){fig-align="center" width="373"}](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257259)

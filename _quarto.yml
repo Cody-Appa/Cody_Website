@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chlamydia Cody"
+  navbar:
+    left: 
+      - href: research_interests.qmd
+        text: Research Interests
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact Info
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+editor: visual
+
