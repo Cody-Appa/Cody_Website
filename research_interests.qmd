@@ -5,6 +5,12 @@ about:
   template: trestles
 ---
 
+## Understanding Development of *Chlamydia trachomatis*
+
+-   Research focus is on understanding the developmental cycle of *Chlamydia trachomatis*
+
+-   Our lab utilizes promoter reporter plasmid vectors with an array of molecular biology techniques
+
 ## Microscopy
 
 -   Proficient in live-cell microscopy, confocal microscopy, and light microscopy
@@ -21,10 +27,4 @@ about:
 
 -   Research has emphasized molecular biology, particularly genetic engineering of plasmid vectors
 
--   utilize fluorescent promoter reporter plasmid constructs with various methods
-
-    ##### *Curriculum Vitae*
-
-<iframe src="CodyAppaCV.pdf" width="100%" height="600px">
-
-</iframe>
+-   Proficient in PCR, ddPCR, primer design/sequencing, and vector construction

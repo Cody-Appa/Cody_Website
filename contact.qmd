@@ -10,3 +10,9 @@ Work: appa0328\@vandals.uidaho.edu
 Personal: codyrappa\@yahoo.com
 
 Phone (text preferred): 208-315-2638
+
+##### *Curriculum Vitae*
+
+<iframe src="CodyAppaCV.pdf" width="100%" height="600px">
+
+</iframe>
