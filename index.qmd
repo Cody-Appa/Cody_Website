@@ -6,14 +6,14 @@ about:
   template: solana
 ---
 
-Cody Appa is a PhD candidate in the Department of Biological Sciences at the University of Idaho.
+Cody Appa is a PhD from the University of Idaho in Microbiology, Molecular Biology, and Biochemistry
 
 ## Education
 
 University of Idaho, Moscow \| Idaho \| BS in Biology 2018
 
-University of Idaho, Moscow \| Idaho \| PhD in Micro/Molecular Biology and Biochemistry 2021-present
+University of Idaho, Moscow \| Idaho \| PhD in Micro/Molecular Biology and Biochemistry 2025
 
 ## Hobbies
 
-I enjoy hiking and traveling, video games, and microscopy
+I enjoy hiking and traveling, video games, astronomy, and microscopy

@@ -5,9 +5,7 @@ about:
   template: solana
 ---
 
-Work: appa0328\@vandals.uidaho.edu
-
-Personal: codyrappa\@yahoo.com
+email: codyrappa\@yahoo.com
 
 Phone (text preferred): 208-315-2638
 

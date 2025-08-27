@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Chlamydia Cody"
+  title: "Cody Appa, PhD"
   navbar:
     left: 
       - href: research_interests.qmd

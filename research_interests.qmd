@@ -7,13 +7,19 @@ about:
 
 ## Understanding Development of *Chlamydia trachomatis*
 
--   Research focus is on understanding the developmental cycle of *Chlamydia trachomatis*
+-   Research focus was on understanding the developmental cycle and varying cell forms of *Chlamydia trachomatis*
 
--   Our lab utilizes promoter reporter plasmid vectors with an array of molecular biology techniques
+-   Our lab utilized promoter reporter plasmid vectors with an array of molecular biology techniques
+
+-   Used CRISPR interference and inducible riboswitch plasmid constructs to control gene expression in *Chlamydia*
 
 ## Microscopy
 
--   Proficient in live-cell microscopy, confocal microscopy, and light microscopy
+-   Proficient in fluorescent live-cell microscopy and confocal microscopy as well as light microscopy
+
+-   Skilled in immunohistochemistry as well as immunofluorescence.
+
+-   Worked with a variety of staining techniques including antibody staining, enzyme staining, and Fluorescent in-situ hybridization
 
 -   Skilled in utilizing imaging software such as Fiji, ImageJ, and Illustrator to process images
 
@@ -21,10 +27,18 @@ about:
 
 -   8+ years of experience working with infectious culture in a biosafety 2+ lab setting
 
--   Skilled in eukaryotic host cell culture
+-   Skilled in eukaryotic host cell culture, maintained multiple culture flasks for infectious assays
 
-## Molecular Biology
+-   Worked with Cos-7 and Hela cells
+
+-   Performed lipid-based transfections
+
+## Molecular Biology techniques
 
 -   Research has emphasized molecular biology, particularly genetic engineering of plasmid vectors
 
--   Proficient in PCR, ddPCR, primer design/sequencing, and vector construction
+-   Proficient in PCR, ddPCR, primer design/sequencing, electrophoresis, and vector construction
+
+-   Expertise with DNA/RNA/Protein isolations, Western Blot, RNA-seq, DNA-seq
+
+-   Familiar with ELISA and other antibody staining techniques
